@@ -1,0 +1,18 @@
+{
+  "name": "SocialWall",
+  "version": "1.0.0",
+  "description": "\"Fetching data from social media platform using the respective handles.\"",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "start": "nodemon server.js"
+  },
+  "repository": "https://github.com/sesn/SocialWall.git",
+  "author": "sesn <sesankar11@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
