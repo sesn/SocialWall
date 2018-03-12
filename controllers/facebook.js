@@ -3,6 +3,8 @@ const axios = require('axios');
 const fb_graph_url_detail = {
     host: "https://graph.facebook.com/",
     field_options : [
+        "full_picture",
+        "picture",
         "link",
         "created_time",
         "id",

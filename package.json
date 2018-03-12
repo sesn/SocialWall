@@ -14,7 +14,8 @@
     "axios": "^0.18.0",
     "body-parser": "^1.18.2",
     "dotenv": "^5.0.1",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "twitter": "^1.7.1"
   },
   "devDependencies": {
     "nodemon": "^1.17.1"
